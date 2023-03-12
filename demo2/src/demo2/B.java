@@ -7,7 +7,7 @@ public class B implements interface1
 	int a,b,c=0;
 	public void add()
 	{
-		System.out.println("This is code add");
+		System.out.println("This is a code add");
 	}
 	public void sub()
 	{
